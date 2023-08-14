@@ -12,3 +12,6 @@ How will this project be tracked?
 
 ## Privacy Claim
 I would like to keep your data in your phone and nowhere else, Though with more improved functionality such as Pick Up where you left off and accessibility to your calendar from anywhere, My primary focus is to make sure, your data is only used by you and no one else. No to spyware & No to intrusive Behaviour.
+
+## Design Choice 
+To be Continued
