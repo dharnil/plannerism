@@ -11,4 +11,4 @@ Proof Of Concept for Privacy Centric & Easy to Comprehend Calendar and Time Mana
 I would like to keep your data in your phone and nowhere else, Though with more improved functionality such as Pick Up where you left off and accessibility to your calendar from anywhere, My primary focus is to make sure, your data is only used by you and no one else. No to spyware & No to intrusive Behaviour.
 
 ## Design Choice
-To be Continued
+Must include Time Line Approach Steam Consisting of Year, Year consisting of Months, Months of Days & Days of Individual Tasks.
