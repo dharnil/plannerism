@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-08-18T12:31:06.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="VYcOr2jcg_BuXTkSultn" version="21.6.8" type="device">
+<mxfile host="Electron" modified="2023-08-18T12:32:17.390Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="5GaRrnThwCzCWYJOWeG3" version="21.6.8" type="device">
   <diagram name="Page-1" id="fJoOs0AHJngk-YeUOHFf">
     <mxGraphModel dx="413" dy="1484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3886,6 +3886,9 @@
         </mxCell>
         <mxCell id="oA_rYwytpyfXls1Q7KUn-13" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;SUN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1070" y="120" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oA_rYwytpyfXls1Q7KUn-14" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Weekly Schedule&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1063.5" y="100" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
