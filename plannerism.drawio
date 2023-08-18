@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-08-18T12:15:42.703Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="Tm95nXx9omSP85zNrgQ-" version="21.6.8" type="device">
+<mxfile host="Electron" modified="2023-08-18T12:24:58.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="oAW6mJ0YAtAm9A6SZE3x" version="21.6.8" type="device">
   <diagram name="Page-1" id="fJoOs0AHJngk-YeUOHFf">
-    <mxGraphModel dx="928" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1013" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3844,6 +3844,16 @@
         <mxCell id="ch4wgafkQjMkuvDWmzFS-1308" value="24" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#ff0000;fontColor=#ffffff;strokeWidth=2;fillColor=#008cff;" parent="ch4wgafkQjMkuvDWmzFS-1256" vertex="1">
           <mxGeometry x="50" y="104.91428571428571" width="20" height="19.428571428571427" as="geometry" />
         </mxCell>
+        <mxCell id="oA_rYwytpyfXls1Q7KUn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oA_rYwytpyfXls1Q7KUn-1" target="oA_rYwytpyfXls1Q7KUn-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1108.5" y="231.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oA_rYwytpyfXls1Q7KUn-5" value="Trial Counter Dial Layout" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oA_rYwytpyfXls1Q7KUn-4">
+          <mxGeometry x="-0.2675" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oA_rYwytpyfXls1Q7KUn-1" value="Require improved UI for Day laid out in a week" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/007/215/419/original/blank-weekly-planner-calendar-template-schedule-for-planning-for-the-week-free-vector.jpg;" vertex="1" parent="1">
           <mxGeometry x="1020" y="330" width="177" height="118" as="geometry" />
         </mxCell>
@@ -3852,6 +3862,9 @@
             <mxPoint x="920" y="580" as="sourcePoint" />
             <mxPoint x="970" y="530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oA_rYwytpyfXls1Q7KUn-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://etc.usf.edu/clipart/40500/40574/pie_01-07a_40574_lg.gif;" vertex="1" parent="1">
+          <mxGeometry x="1053.6" y="110" width="109.8" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
