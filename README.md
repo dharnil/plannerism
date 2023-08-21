@@ -1,5 +1,5 @@
 # Plannerism
-Proof Of Concept for Privacy Centric & Easy to Comprehend Calendar and Time Management Application.
+Proof Of Concept for Privacy Centric & Easy to Comprehend Calendar and Time Management Application. My agenda is to allow various visualization techniques to improve visibility of Calendar Data.
 
 ## About
   - What is Plannerism About?
